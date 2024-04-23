@@ -1,8 +1,8 @@
 import React from "react";
-import img6 from "../../../../../Images/landingpage/29.png";
-import img7 from "../../../../../Images/landingpage/30.png";
-import img8 from "../../../../../Images/landingpage/31.png";
-import img9 from "../../../../../Images/landingpage/32.png";
+import img6 from "../../../../../Images/landingpage/29.PNG";
+import img7 from "../../../../../Images/landingpage/30.PNG";
+import img8 from "../../../../../Images/landingpage/31.PNG";
+import img9 from "../../../../../Images/landingpage/32.PNG";
 import Image from "next/image";
 import Today from "../Today";
 
